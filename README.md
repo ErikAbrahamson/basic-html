@@ -4,4 +4,4 @@
 
 [Mockup 3](http://codepen.io/ErikAbrahamson/pen/zGjYMa)  
 
-[Mockup 4 (WIP)](http://codepen.io/ErikAbrahamson/pen/vOjYqY)  
+[Mockup 4](http://codepen.io/anon/pen/vOjyxe) 
